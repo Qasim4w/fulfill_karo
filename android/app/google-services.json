@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741418873814",
+    "project_id": "fulfillkaro",
+    "storage_bucket": "fulfillkaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741418873814:android:6552f39c192dd061976a77",
+        "android_client_info": {
+          "package_name": "com.example.fulfill_karo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741418873814-2qm38c5hp0cu5lnp81fc7vu13jsrf8kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADmfU2NqVT6q15ld10ZW63uxdrg8VVto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741418873814-2qm38c5hp0cu5lnp81fc7vu13jsrf8kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
